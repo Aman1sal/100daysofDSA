@@ -50,22 +50,22 @@ public class Medium {
 //}
 
 
-//    // // // Take integer inputs till the user enters 0 and print the largest number from all.
-//public static void main(String[] args) {
-//    int largest = 0;
-//    Scanner input = new Scanner(System.in);
-//    while (true){
-//        int num = input.nextInt();
-//        if (num>largest){
-//            largest = num;
-//        }
-//
-//        if (num == 0){
-//            break;
-//        }
-//    }
-//    System.out.println(largest);
-//}
-//}
+    // // // Take integer inputs till the user enters 0 and print the largest number from all.
+public static void main(String[] args) {
+    int largest = 0;
+    Scanner input = new Scanner(System.in);
+    while (true){
+        int num = input.nextInt();
+        if (num>largest){
+            largest = num;
+        }
+
+        if (num == 0){
+            break;
+        }
+    }
+    System.out.println(largest);
+}
+}
 
 
