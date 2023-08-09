@@ -1,0 +1,26 @@
+import java.util.Arrays;
+
+public class InsertionSort {
+    public static void main(String[] args) {
+        int[] arr = {54,78,36,94,28,100,0,11,72,83};
+        insertionsort(arr);
+        System.out.println(Arrays.toString(arr));
+    }
+    public static void insertionsort(int[] arr){
+        for(int i=1; i<arr.length-1; i++){
+            for(int j =i+1; j>0; j--){
+                if(arr[j]<arr[j-1]){
+                    swap(arr, j, j-1);
+                } else{
+                    break;
+                }
+            }
+        }
+    }
+
+    public static void swap(int[] arr, int index1, int index2){
+        int temp = arr[index1];
+        arr[index1] = arr[index2];
+        arr[index2] = temp;
+    }
+}
