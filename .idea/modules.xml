@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/100 days of DSA.iml" filepath="$PROJECT_DIR$/100 days of DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Questions/Basic Questions.iml" filepath="$PROJECT_DIR$/Basic Questions/Basic Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Questions/Binary Search Questions.iml" filepath="$PROJECT_DIR$/Binary Search Questions/Binary Search Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch2d/BinarySearch2d.iml" filepath="$PROJECT_DIR$/BinarySearch2d/BinarySearch2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bitwise/Bitwise.iml" filepath="$PROJECT_DIR$/Bitwise/Bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge Sort/Merge Sort.iml" filepath="$PROJECT_DIR$/Merge Sort/Merge Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Practice/Pattern Practice.iml" filepath="$PROJECT_DIR$/Pattern Practice/Pattern Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quick Sort/Quick Sort.iml" filepath="$PROJECT_DIR$/Quick Sort/Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion L1/Recursion L1.iml" filepath="$PROJECT_DIR$/Recursion L1/Recursion L1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion L2/Recursion L2.iml" filepath="$PROJECT_DIR$/Recursion L2/Recursion L2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion L3/Recursion L3.iml" filepath="$PROJECT_DIR$/Recursion L3/Recursion L3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion L4/Recursion L4.iml" filepath="$PROJECT_DIR$/Recursion L4/Recursion L4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion L5/Recursion L5.iml" filepath="$PROJECT_DIR$/Recursion L5/Recursion L5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching and Sorting Practice/Searching and Sorting Practice.iml" filepath="$PROJECT_DIR$/Searching and Sorting Practice/Searching and Sorting Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch statements/Switch statements.iml" filepath="$PROJECT_DIR$/Switch statements/Switch statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+    </modules>
+  </component>
+</project>
